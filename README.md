@@ -1,0 +1,2 @@
+# Transformer_new_test
+基于transformer的文本分类实现。这里是情感三分类。可以换数据实现多分类
